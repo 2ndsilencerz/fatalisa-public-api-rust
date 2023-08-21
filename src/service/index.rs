@@ -1,3 +1,3 @@
-pub(crate) fn index() -> &'static str {
+pub fn index() -> &'static str {
     return "success";
 }
